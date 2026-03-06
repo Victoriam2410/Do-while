@@ -1,0 +1,6 @@
+﻿int numero = 1;
+do
+{
+    Console.WriteLine($"{numero}");
+    numero += 2;
+} while (numero <= 15);
