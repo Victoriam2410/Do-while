@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "RodasEsther_do01/1.0.0": {
+        "runtime": {
+          "RodasEsther_do01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RodasEsther_do01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
