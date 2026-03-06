@@ -1,0 +1,14 @@
+V:\do While\RodasEsther_Do19\RodasEsther_Do19\bin\Debug\net10.0\RodasEsther_Do19.exe
+V:\do While\RodasEsther_Do19\RodasEsther_Do19\bin\Debug\net10.0\RodasEsther_Do19.deps.json
+V:\do While\RodasEsther_Do19\RodasEsther_Do19\bin\Debug\net10.0\RodasEsther_Do19.runtimeconfig.json
+V:\do While\RodasEsther_Do19\RodasEsther_Do19\bin\Debug\net10.0\RodasEsther_Do19.dll
+V:\do While\RodasEsther_Do19\RodasEsther_Do19\bin\Debug\net10.0\RodasEsther_Do19.pdb
+V:\do While\RodasEsther_Do19\RodasEsther_Do19\obj\Debug\net10.0\RodasEsther_Do19.GeneratedMSBuildEditorConfig.editorconfig
+V:\do While\RodasEsther_Do19\RodasEsther_Do19\obj\Debug\net10.0\RodasEsther_Do19.AssemblyInfoInputs.cache
+V:\do While\RodasEsther_Do19\RodasEsther_Do19\obj\Debug\net10.0\RodasEsther_Do19.AssemblyInfo.cs
+V:\do While\RodasEsther_Do19\RodasEsther_Do19\obj\Debug\net10.0\RodasEsther_Do19.csproj.CoreCompileInputs.cache
+V:\do While\RodasEsther_Do19\RodasEsther_Do19\obj\Debug\net10.0\RodasEsther_Do19.dll
+V:\do While\RodasEsther_Do19\RodasEsther_Do19\obj\Debug\net10.0\refint\RodasEsther_Do19.dll
+V:\do While\RodasEsther_Do19\RodasEsther_Do19\obj\Debug\net10.0\RodasEsther_Do19.pdb
+V:\do While\RodasEsther_Do19\RodasEsther_Do19\obj\Debug\net10.0\RodasEsther_Do19.genruntimeconfig.cache
+V:\do While\RodasEsther_Do19\RodasEsther_Do19\obj\Debug\net10.0\ref\RodasEsther_Do19.dll
